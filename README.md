@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](../404-not-found-master/acetis/Captura%20de%20tela%20de%202023-07-03%2011-26-19.png)
+<img src="acetis/Captura de tela de 2023-07-03 11-26-19.png" alt="not found">
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
